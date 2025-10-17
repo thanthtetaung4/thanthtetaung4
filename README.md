@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thant Htet Aung
 
-I'm a passinoate full-stack developer passionate about building practical, user-focused applications. I’m not tied to any specific tech stack — I focus on understanding core concepts and adapting quickly by reading documentation and solving real problems.
+I'm a full-stack developer passionate about building practical, user-focused applications. I’m not tied to any specific tech stack — I focus on understanding core concepts and adapting quickly by reading documentation and solving real problems.
 
 With a strong developer mindset and solid foundational knowledge, I’m confident in my ability to learn, build, and deliver across both frontend and backend projects. I'm currently seeking opportunities as a Junior Developer to grow and contribute to impactful projects.I am an aspiring fullstack developer aiming to get a job as junior developer role. I am not bound to a tech stack as I have the foundational knowledge and strong dev mindset which makes me readthe docs and do the job.
 
