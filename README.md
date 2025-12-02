@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thant Htet Aung
+# 👋 Hi, I'm Thant
 
 I'm a full-stack developer passionate about building practical, user-focused applications. I’m not tied to any specific tech stack — I focus on understanding core concepts and adapting quickly by reading documentation and solving real problems.
 
