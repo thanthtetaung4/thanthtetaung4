@@ -1,8 +1,22 @@
 # 👋 Hi, I'm Thant
 
-I'm a full-stack developer passionate about building practical, user-focused applications. I’m not tied to any specific tech stack — I focus on understanding core concepts and adapting quickly by reading documentation and solving real problems.
+AI Software Engineer with a strong focus on building practical LLM-powered applications, backend systems, and developer tooling. I specialize in turning AI concepts into production-ready software, with experience across agentic workflows, Retrieval-Augmented Generation (RAG), model evaluation, prompt engineering, and cloud-native deployment.
 
-With a strong developer mindset and solid foundational knowledge, I’m confident in my ability to learn, build, and deliver across both frontend and backend projects. I'm currently seeking opportunities as a Junior Developer to grow and contribute to impactful projects.I am an aspiring fullstack developer aiming to get a job as junior developer role. I am not bound to a tech stack as I have the foundational knowledge and strong dev mindset which makes me readthe docs and do the job.
+My professional experience includes developing AI features for enterprise software, improving model quality through evaluation frameworks, optimizing inference cost and performance, and investigating production issues using modern observability tools. I enjoy designing reliable systems that combine software engineering principles with the latest advances in generative AI.
+
+Beyond my professional work, I build open-source projects that explore agentic AI, knowledge retrieval, local-first AI applications, automation, and developer productivity. I believe the best way to deeply understand a technology is to rebuild it from first principles, which drives many of my personal projects—from implementing Unix shells and backend frameworks to creating AI orchestration libraries and autonomous coding systems.
+
+My primary interests include:
+
+🤖 Agentic AI & Multi-Agent Systems
+🧠 Large Language Models (LLMs)
+🔎 Retrieval-Augmented Generation (RAG)
+📊 AI Evaluation & Prompt Engineering
+⚙️ Backend Engineering & Distributed Systems
+☁️ Cloud-Native Infrastructure (Docker, Kubernetes)
+🚀 Developer Tools & Automation
+
+I enjoy solving complex engineering problems where AI and software engineering intersect, with a focus on building systems that are scalable, maintainable, and genuinely useful. My long-term goal is to contribute to the next generation of AI-powered developer tools and intelligent software systems while continuously learning, experimenting, and sharing knowledge through open-source projects.
 
 
 ## 🌐 Socials:
